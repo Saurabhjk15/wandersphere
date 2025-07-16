@@ -57,13 +57,14 @@ npm run dev
 
 create another .env.local file and made sure these url are avialable
 
-
+```bash
 -AUTH_GITHUB_ID=""               (i have used github for authentication(login,logout) so you have to genrate your github secret)
 -AUTH_GITHUB_SECRET=""
 -AUTH_SECRET=""                          (next authentication)
 -UPLOADTHING TOKEN =""                 (setup your project on uploadthing portal for easy uploading of images https://uploadthing.com/)
 -GOOGLE_MAPS_API_KEY=""
 -NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=""                (create your GCP Account)
+```
 
 
 🙌 Contributing
