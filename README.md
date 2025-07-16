@@ -3,7 +3,7 @@
 **Wandersphere** is your ultimate travel planner web app — crafted to help you effortlessly organize, visualize, and share your adventures around the globe.
 
 > ✨ Plan trips. 🗺️ Map destinations. 📅 Build itineraries.  
-> Made with ❤️ by [Saurabh Sharma](https://www.linkedin.com/in/saurabh-sharma-6851a8256)
+> Made with ❤️ by [Saurabh Sharma]
 
 ---
 
