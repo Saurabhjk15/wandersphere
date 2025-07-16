@@ -35,12 +35,11 @@
 
 ## 🛠️ Built With
 
-- **Frontend**: Next.js 14 (App Router), Tailwind CSS, ShadCN UI
-- **Backend**: NeonDb, Prisma ORM
+- **Tech Stack** : NextJS, Prisma, Neon, Google Maps and PostgreSQL.
 - **Database**: PostgreSQL 
 - **Auth**: NextAuth.js
 - **Maps**: Google Maps
-- **Deployment**: can be done on vercel (i did it but  after some time it started incurring so i have to shutitdown as google maps api are not free always. )
+- **Deployment**: can be done on vercel ( did it on vercel  but  cant provide live link to prevent api abuse as its a personal project )
 
 ---
 
